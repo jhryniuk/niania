@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Niania</string>
+    <string name="welcome">Witamy w elektronicznej niani.</string>
+    <string name="welcome_button">Wybierz numer z kontaktów</string>
+</resources>
