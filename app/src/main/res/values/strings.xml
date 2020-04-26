@@ -2,4 +2,5 @@
     <string name="app_name">Nanny</string>
     <string name="welcome">Welcome in electronic nanny!</string>
     <string name="welcome_button">Chose number from contacts</string>
+    <string name="chosen_number_is">Chosen number is:</string>
 </resources>

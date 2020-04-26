@@ -2,6 +2,8 @@
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
     package="com.example.niania">
     <uses-permission android:name="android.permission.READ_CONTACTS"/>
+    <uses-permission android:name="android.permission.RECORD_AUDIO"/>
+    <uses-permission android:name="android.permission.WAKE_LOCK" />
     <application
         android:fullBackupContent="true"
         android:allowBackup="true"
@@ -19,6 +21,8 @@
             </intent-filter>
         </activity>
         <activity android:name=".ChoiceContactActivity">
+        </activity>
+        <activity android:name=".WorkActivity">
         </activity>
     </application>
 
